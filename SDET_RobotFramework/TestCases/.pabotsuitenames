@@ -1,0 +1,6 @@
+datasources:86cc3da3ff26dcf94f37bf9c3e76f734b8837af4
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:b3a1631d2552ec475349a047b679694b5d190a67
+--suite Suites.POMLoginTest
+--suite Suites.POMRegistrationTest
